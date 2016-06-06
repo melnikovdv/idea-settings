@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="PathMacrosImpl">
-    <macro name="MAVEN_REPOSITORY" value="/Users/mdv/.m2/repository" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/dmitriy.melnikov/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/dmitriy.melnikov/Library/Application Support/AndroidStudio2.1/Kotlin/kotlinc" />
   </component>
 </application>
-
