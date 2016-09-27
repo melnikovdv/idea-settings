@@ -12,7 +12,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="lge" value="Log.d(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="Log error" toReformat="false" toShortenFQNames="true">
+  <template name="lge" value="Log.e(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="Log error" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
