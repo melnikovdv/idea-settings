@@ -10,6 +10,6 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
   <component name="JavaCodeFoldingSettings">
-    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>
