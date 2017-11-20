@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="temp" type="JAVA" />
       <mapping ext="aar" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
